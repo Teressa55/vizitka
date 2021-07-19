@@ -1,0 +1,10 @@
+body{ background-color: darkgray; margin: 15%;}
+h1{color: blueviolet; 
+    font-family: serif;}
+h2 {color: blueviolet; 
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+p{text-align: center;font-size: 15px; 
+  font-family: Georgia, 'Times New Roman', Times, serif;}
+a:active{color: coral;}
+a:hover{color: crimson;}
+a:focus{color:darkgoldenrod;}
